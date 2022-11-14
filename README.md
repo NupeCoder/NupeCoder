@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abubakar
 - 🌱 I’m currently on a BSc SWE degree course
-- 📫 you can reach me @ a.lima@edu.salford.ac.uk
+- 📫 you can reach me @ a.liman@edu.salford.ac.uk
 
 <!---
 NupeCoder/NupeCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
